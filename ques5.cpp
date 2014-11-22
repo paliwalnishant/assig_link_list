@@ -143,7 +143,7 @@ void Linklist::second_min_element()
 
 
     }
-    cout<<"\n\n"<<"2nd maximum element in linklist:"<<second_min;
+    cout<<"\n\n"<<"2nd minimum element in linklist:"<<second_min;
 }
 int main()
 {
